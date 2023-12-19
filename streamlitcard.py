@@ -1,4 +1,4 @@
-
+pip install yfinance
 
 import streamlit as st, pandas as pd, numpy as np, yfinance as yf
 import plotly.express as px
